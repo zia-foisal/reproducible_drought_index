@@ -1,8 +1,8 @@
 name: drought
 channels:
-  -conda-forge
-  -base
-  -R
+  - conda-forge
+  - base
+  - R
 dependencies:
-  -r-base
-  -r-tidyverse
+  - r-base
+  - r-tidyverse
